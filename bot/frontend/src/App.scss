@@ -1,0 +1,18 @@
+b {
+  font-weight: bolder;
+}
+
+.cds--btn-set {
+  flex-wrap: wrap;
+
+  .cds--btn {
+    max-width: max-content;
+    min-width: 150px;
+    margin-top: 4px;
+    margin-right: 4px;
+    margin-left: 0px;
+    padding: 0.25rem 0.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+  }
+}

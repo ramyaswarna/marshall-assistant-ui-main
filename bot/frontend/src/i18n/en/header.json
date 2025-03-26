@@ -1,0 +1,151 @@
+{
+    "usefulLinks": {
+        "title": "Useful Links",
+        "content": [
+            {
+                "label": "People",
+                "url": "https://w3.ibm.com/#/people"
+            },
+            {
+                "label": "Checkpoint",
+                "url": "https://w3.ibm.com/hr/performance/checkpoint/"
+            },
+            {
+                "label": "Concerns and Appeals",
+                "url": "https://w3-03.ibm.com/hr/global/concerns_and_appeals/index.jsp"
+            },
+            {
+                "label": "Global Opportunity Market",
+                "url": "https://w3.ibm.com/hr/web/recruitment/gom/"
+            },
+            {
+                "label": "AskHR",
+                "url": "https://w3.ibm.com/hr/web/empservices/esc/globalesc"
+            },
+            {
+                "label": "IT Support",
+                "url": "https://w3.ibm.com/#/support/"
+            },
+            {
+                "label": "IBM Recognition Center",
+                "url": "https://ibmrr.performnet.com/ibmrr/homePage.do"
+            },
+            {
+                "label": "Manager Essentials",
+                "url": "https://w3.ibm.com/w3publisher/manager-essentials"
+            },
+            {
+                "label": "Professional Market Place",
+                "url": "https://w3.ibm.com/services/tools/marketplace/findanOpenseat.wss"
+            },
+            {
+                "label": "Travel@IBM",
+                "url": "https://w3.ibm.com/travel"
+            },
+            {
+                "label": "W3 home page",
+                "url": "https://w3.ibm.com/"
+            },
+            {
+                "label": "Workday",
+                "url": "https://wd5.myworkday.com/ibm/d/home.htmld"
+            },
+            {
+                "label": "You and IBM",
+                "url": "https://w3.ibm.com/youandibm/"
+            },
+            {
+                "label": "Your Career@IBM",
+                "url": "https://w3.ibm.com/careers/"
+            },
+            {
+                "label": "Your Learning",
+                "url": "https://yourlearning.ibm.com/"
+            },
+            {
+                "label": "Workplace Ergonomics",
+                "url": "https://w3.ibm.com/hr/web/health/ergo/"
+            },
+            {
+                "label": "Return To Workplace Guidance",
+                "url": "https://w3.ibm.com/w3publisher/w3news/2020/novel-coronavirus/return-to-workplace"
+            },
+            {
+                "label": "Wellbeing@IBM",
+                "url": "https://w3.ibm.com/hr/web/health/well-being/"
+            },
+            {
+                "label": "US Federal and State workplace posters",
+                "url": "https://w3.ibm.com/hr/web/us/benefits/spd/"
+            },
+            {
+                "label": "Your Guides at IBM",
+                "url": "https://yourguides.dal1a.cirrus.ibm.com/"
+            }
+        ]
+    },
+    "preferences": {
+        "title": "Preferences",
+        "emailTranscript": "E-mail transcript",
+        "refreshConversation": "Refresh Conversation",
+        "customise": "Customise",
+        "changeCountry": "Change Country",
+        "privacyStatement": "Privacy Statement",
+        "logout": "Logout"
+    },
+    "languages": {
+        "title": "Languages",
+        "EnglishDefault": "English (default)",
+        "Arabic": "Arabic",
+        "Bengali": "Bengali",
+        "Bosnian": "Bosnian",
+        "Bulgarian": "Bulgarian",
+        "ChineseSimplified": "Chinese Simplified",
+        "ChineseTraditional": "Chinese Traditional",
+        "Croatian": "Croatian",
+        "Czech": "Czech",
+        "Danish": "Danish",
+        "Dutch": "Dutch",
+        "Estonian": "Estonian",
+        "Finnish": "Finnish",
+        "French": "French",
+        "FrenchCanadian": "French (Canadian)",
+        "German": "German",
+        "Greek": "Greek",
+        "Gujarati": "Gujarati",
+        "Hebrew": "Hebrew",
+        "Hindi": "Hindi",
+        "Hungarian": "Hungarian",
+        "Indonesian": "Indonesian",
+        "Irish": "Irish",
+        "Italian": "Italian",
+        "Japanese": "Japanese",
+        "Korean": "Korean",
+        "Latvian": "Latvian",
+        "Lithuanian": "Lithuanian",
+        "Malay": "Malay",
+        "Malayalam": "Malayalam",
+        "Maltese": "Maltese",
+        "Montenegrin": "Montenegrin",
+        "Nepali": "Nepali",
+        "Norwegian": "Norwegian",
+        "Polish": "Polish",
+        "Portuguese": "Portuguese",
+        "Romanian": "Romanian",
+        "Russian": "Russian",
+        "Serbian": "Serbian",
+        "Sinhala": "Sinhala",
+        "Slovak": "Slovak",
+        "Slovenian": "Slovenian",
+        "Spanish": "Spanish",
+        "Swedish": "Swedish",
+        "Tamil": "Tamil",
+        "Telugu": "Telugu",
+        "Thai": "Thai",
+        "Turkish": "Turkish",
+        "Ukrainian": "Ukrainian",
+        "Urdu": "Urdu",
+        "Vietnamese": "Vietnamese",
+        "Welsh": "Welsh"
+    }
+}

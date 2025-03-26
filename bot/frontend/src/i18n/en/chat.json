@@ -1,0 +1,135 @@
+{
+    "seeMore": "See more",
+    "placeholder": "Please ask me your question as a short sentence in English or provide your input as required by the transaction.",
+    "sendMessage": "Send message",
+    "suggestions": {
+        "Diversity": [
+            "I want to learn more about our company policy for Diversity",
+            "Hey I heard about new policy called Inclusion, what is it?",
+            "Diversity & Inclusion",
+            "Give me an example of inclusion",
+            "Diversity and inclusion"
+        ],
+        "employee-letters": [
+            "I want to download employment letter",
+            "How to see my confirmation letter",
+            "ICA letter",
+            "Letter for ICA",
+            "Job letter",
+            "Confirmation letter",
+            "How to get ICA letter without allowances"
+        ],
+        "MATERNITY": [
+            "Maternity benefits",
+            "Maternity leave",
+            "How to apply for maternity leave",
+            "Can I apply for maternity leaves?",
+            "How much maternity leaves are allocated to the employees?"
+        ],
+        "MyInformation": [
+            "Display my information",
+            "Display my profile",
+            "Myinfo",
+            "Profile",
+            "My info"
+        ],
+        "New_Issues": [
+            "I want to create a new issue in Jira",
+            "Create an issue please",
+            "System not working",
+            "Jira ticket",
+            "New issue in Jira",
+            "I would like to report a problem with the software",
+            "I want to create a jira ticket",
+            "Create a jira ticket please",
+            "Salary related",
+            "Story",
+            "I found a possible problem and want to create an issue for it",
+            "Please create an issue",
+            "I am facing an issue in ADP system",
+            "Time off issue",
+            "Unable to access salary slip",
+            "I am unable to apply leaves",
+            "I am unable to access my benefits",
+            "I am facing an issue in accessing benefit information",
+            "Pay slip issue",
+            "Unable to access my profile",
+            "I am facing issue in accessing my salary information",
+            "I am facing an issue in accessing Time off system",
+            "I am facing an issue in applying leaves",
+            "I am unable to access my profile",
+            "I want to generate a ticket",
+            "Please generate a ticket"
+        ],
+        "payroll-view": [
+            "Get my payslip",
+            "How can I see my salary slip",
+            "Generate my payslip",
+            "Display my payslip",
+            "Compensation plan view",
+            "How can I see my payslip",
+            "How can I see my payslip",
+            "What is my compensation plan?",
+            "Salary slip",
+            "Salary",
+            "Payslip",
+            "My payslip",
+            "I want to see my payslip"
+        ],
+        "privacy": [
+            "Privacy Notice/Disclaimer/AI transparency"
+        ],
+        "publicholidays": [
+            "Public holidays",
+            "Upcoming public holidays",
+            "IBM Designated public holidays",
+            "Public holiday",
+            "Next public holiday",
+            "Would like to check for public holidays",
+            "I would like to check for public holiday",
+            "List of public holidays",
+            "Get IBM designated Holiday list"
+        ],
+        "timeoff-query": [
+            "Display time off balance",
+            "Leave query",
+            "Time off",
+            "How many leaves are pending in my account?",
+            "My Balance Time Off",
+            "Pending leaves",
+            "View my upcoming time off",
+            "What is my time off balance?",
+            "Leave balance",
+            "How many leave days left?"
+        ],
+        "timeoff-request": [
+            "How to apply for time off?",
+            "I want to request for Time off",
+            "I want to apply for leave",
+            "Leave application",
+            "I want to apply for time off",
+            "Leave request",
+            "Request Time Off",
+            "How to apply for the leaves?"
+        ],
+        "work_Location": [
+            "How can I update my Work location?",
+            "What is the process of changing work location?",
+            "Work location",
+            "Executive Work Location"
+        ],
+        "YourLearnings": [
+            "What is the status of mylearnings?",
+            "What are my digital credentials?",
+            "How many hours I spent on Yourlearnings?",
+            "What is the status of my learnings?",
+            "How many certifications I did this year?",
+            "What is my status on YourLearnings?",
+            "I want to see my your learning scores",
+            "What is my status on your learnings?",
+            "Yourlearnings",
+            "I would like to see my e learning",
+            "Show my digital credentials?"
+        ]
+    }
+}

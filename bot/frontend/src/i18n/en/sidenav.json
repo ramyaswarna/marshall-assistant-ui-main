@@ -1,0 +1,43 @@
+{
+  "trending": {
+    "title": "Patient Overview",
+    "critical": ["Personnel Change", "Safety alerts"],
+    "news": [
+      {
+        "feed": ""
+      }
+    ],
+    "buttons": [
+      "Safety Briefs"
+    ]
+  },
+  "summaryComplexityContent": {
+    "title": "Summary Complexity",
+    "content": [
+      {
+        "label":"Verbosity",
+        "children": [{ "label": "Concise" }, { "label": "Moderate-Detail"}, { "label": "High-Detail" }]
+      }
+      
+    ]
+  },
+  "timeFrameContent": {
+    "title": "Time Frame",
+    "content": [
+      {
+        "label": "Start Date ",
+        "children": [{ "label": "Past 6 months" }]
+      }
+    ]
+  },
+  "selectPatientsContent": {
+    "title": "Select Patients",
+    "content": [
+      {
+        "label": "Patients ",
+        "children": [{ "label": "Charles Ray Willing" }, { "label": "Peter Anderson" }]
+      }
+    ]
+  }
+}
+

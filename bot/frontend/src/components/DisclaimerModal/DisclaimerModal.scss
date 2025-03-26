@@ -1,0 +1,25 @@
+.disclaimer-content {
+    margin: 1rem 0;
+  
+    p {
+      margin-bottom: 1rem;
+      line-height: 1.5;
+    }
+  
+    ul {
+      list-style-type: disc; 
+      margin-left: 2rem; 
+      margin-bottom: 1rem; 
+  
+      li {
+        margin-bottom: 0.75rem; 
+        line-height: 1.5; 
+        padding-left: 0.5rem; 
+        color: #161616; 
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+  

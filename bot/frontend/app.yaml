@@ -1,0 +1,54 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: conversational-ai-engine
+spec:
+  selector:
+    matchLabels:
+      app: conversational-ai-engine
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: conversational-ai-engine
+    spec:
+      containers:
+      - name: conversational-ai-engine
+        image: jp.icr.io/kwong/conversational-ai-engine:15
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: icr-secret
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: conversational-ai-engine-service
+spec:
+  selector:
+    app: conversational-ai-engine
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+
+---
+kind: Route
+apiVersion: route.openshift.io/v1
+metadata:
+  name: askhr-engine
+spec:
+  host: >-
+    askhr-ui-default.itzroks-550008wpsw-ul7rnd-6ccd7f378ae819553d37d5f2ee142bd6-0000.au-syd.containers.appdomain.cloud
+  to:
+    kind: Service
+    name: conversational-ai-engine-service
+    weight: 100
+  port:
+    targetPort: 8080
+  tls:
+    termination: edge
+    insecureEdgeTerminationPolicy: None
+  wildcardPolicy: None
